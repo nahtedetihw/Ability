@@ -1,0 +1,9 @@
+Package: com.nahtedetihw.ability
+Name: Ability
+Depends: mobilesubstrate, ws.hbang.common
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Customize your Reachability Window!
+Maintainer: Ethan Whited
+Author: Ethan Whited
+Section: Tweaks
