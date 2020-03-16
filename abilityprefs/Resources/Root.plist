@@ -106,7 +106,7 @@
 			<key>cell</key>
 			<string>PSSliderCell</string>
 			<key>default</key>
-			<real>0.5</real>
+			<real>0.4</real>
 			<key>defaults</key>
 			<string>com.nahtedetihw.ability</string>
 			<key>key</key>
@@ -213,7 +213,7 @@
 			<key>footerAlignment</key>
 			<string>1</string>
 			<key>footerText</key>
-			<string>Ability 1.0</string>
+			<string>Ability 1.1</string>
 		</dict>
 		<dict>
 			<key>cell</key>
